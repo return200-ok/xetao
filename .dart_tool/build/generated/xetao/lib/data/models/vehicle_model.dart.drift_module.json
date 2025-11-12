@@ -1,0 +1,7 @@
+{
+  "elements": {},
+  "imports": [
+    "package:xetao/domain/entities/vehicle.dart",
+    "package:xetao/data/database/app_database.dart"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:xetao/presentation/screens/home/home_screen.dart",
+    "package:xetao/presentation/screens/maintenance/maintenance_screen.dart",
+    "package:xetao/presentation/screens/expense/expense_screen.dart",
+    "package:xetao/presentation/screens/settings/settings_screen.dart"
+  ]
+}

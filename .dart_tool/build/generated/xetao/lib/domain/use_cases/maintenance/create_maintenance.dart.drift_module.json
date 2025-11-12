@@ -1,0 +1,11 @@
+{
+  "elements": {},
+  "imports": [
+    "package:uuid/uuid.dart",
+    "package:xetao/domain/entities/maintenance.dart",
+    "package:xetao/domain/entities/maintenance_type.dart",
+    "package:xetao/domain/repositories/maintenance_repository.dart",
+    "package:xetao/domain/repositories/vehicle_repository.dart",
+    "package:xetao/core/utils/result.dart"
+  ]
+}

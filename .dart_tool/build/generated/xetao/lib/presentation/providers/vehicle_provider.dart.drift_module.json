@@ -1,0 +1,12 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:xetao/domain/entities/vehicle.dart",
+    "package:xetao/domain/use_cases/vehicle/get_vehicle.dart",
+    "package:xetao/domain/use_cases/vehicle/create_vehicle.dart",
+    "package:xetao/domain/use_cases/vehicle/update_mileage.dart",
+    "package:xetao/core/utils/result.dart",
+    "package:xetao/presentation/providers/repository_providers.dart"
+  ]
+}

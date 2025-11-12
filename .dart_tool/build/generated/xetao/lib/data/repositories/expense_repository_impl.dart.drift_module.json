@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:xetao/domain/entities/expense.dart",
+    "package:xetao/domain/repositories/expense_repository.dart",
+    "package:xetao/data/database/app_database.dart",
+    "package:xetao/data/models/expense_model.dart"
+  ]
+}

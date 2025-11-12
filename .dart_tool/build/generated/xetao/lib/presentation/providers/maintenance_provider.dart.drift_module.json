@@ -1,0 +1,11 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:xetao/domain/entities/maintenance_type.dart",
+    "package:xetao/domain/use_cases/maintenance/get_maintenance_reminder.dart",
+    "package:xetao/domain/use_cases/maintenance/create_maintenance.dart",
+    "package:xetao/core/utils/result.dart",
+    "package:xetao/presentation/providers/repository_providers.dart"
+  ]
+}

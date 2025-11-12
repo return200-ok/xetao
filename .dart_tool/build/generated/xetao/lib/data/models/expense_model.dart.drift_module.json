@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:xetao/domain/entities/expense.dart",
+    "package:xetao/domain/entities/expense_category.dart",
+    "package:xetao/data/database/app_database.dart"
+  ]
+}

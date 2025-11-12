@@ -1,0 +1,7 @@
+{
+  "elements": {},
+  "imports": [
+    "package:xetao/domain/entities/maintenance.dart",
+    "package:xetao/domain/entities/maintenance_type.dart"
+  ]
+}

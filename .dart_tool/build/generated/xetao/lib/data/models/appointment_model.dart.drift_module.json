@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:xetao/domain/entities/appointment.dart",
+    "package:xetao/domain/entities/appointment_type.dart",
+    "package:xetao/data/database/app_database.dart"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:uuid/uuid.dart",
+    "package:xetao/domain/entities/expense.dart",
+    "package:xetao/domain/entities/expense_category.dart",
+    "package:xetao/domain/repositories/expense_repository.dart",
+    "package:xetao/core/utils/result.dart"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:xetao/core/theme/app_theme.dart",
+    "package:xetao/presentation/screens/main/main_screen.dart"
+  ]
+}

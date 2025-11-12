@@ -1,0 +1,17 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:xetao/data/repositories/vehicle_repository_impl.dart",
+    "package:xetao/data/repositories/maintenance_repository_impl.dart",
+    "package:xetao/data/repositories/expense_repository_impl.dart",
+    "package:xetao/data/repositories/appointment_repository_impl.dart",
+    "package:xetao/data/repositories/reminder_repository_impl.dart",
+    "package:xetao/domain/repositories/vehicle_repository.dart",
+    "package:xetao/domain/repositories/maintenance_repository.dart",
+    "package:xetao/domain/repositories/expense_repository.dart",
+    "package:xetao/domain/repositories/appointment_repository.dart",
+    "package:xetao/domain/repositories/reminder_repository.dart",
+    "package:xetao/presentation/providers/database_provider.dart"
+  ]
+}

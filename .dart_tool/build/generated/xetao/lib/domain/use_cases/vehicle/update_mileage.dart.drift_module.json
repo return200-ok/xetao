@@ -1,0 +1,7 @@
+{
+  "elements": {},
+  "imports": [
+    "package:xetao/domain/repositories/vehicle_repository.dart",
+    "package:xetao/core/utils/result.dart"
+  ]
+}

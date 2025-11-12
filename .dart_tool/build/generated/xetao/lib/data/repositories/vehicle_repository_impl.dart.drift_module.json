@@ -1,0 +1,11 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:xetao/domain/entities/vehicle.dart",
+    "package:xetao/domain/repositories/vehicle_repository.dart",
+    "package:xetao/data/database/app_database.dart",
+    "package:xetao/data/database/app_database.dart",
+    "package:xetao/data/models/vehicle_model.dart"
+  ]
+}

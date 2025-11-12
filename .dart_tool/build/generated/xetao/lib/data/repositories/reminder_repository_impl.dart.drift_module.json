@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:xetao/domain/entities/reminder.dart",
+    "package:xetao/domain/repositories/reminder_repository.dart",
+    "package:xetao/data/database/app_database.dart",
+    "package:xetao/data/models/reminder_model.dart"
+  ]
+}

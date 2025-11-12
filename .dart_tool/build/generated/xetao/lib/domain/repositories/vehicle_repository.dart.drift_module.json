@@ -1,0 +1,6 @@
+{
+  "elements": {},
+  "imports": [
+    "package:xetao/domain/entities/vehicle.dart"
+  ]
+}

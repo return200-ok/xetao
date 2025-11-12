@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:xetao/domain/use_cases/expense/create_expense.dart",
+    "package:xetao/domain/use_cases/expense/get_expense_statistics.dart",
+    "package:xetao/presentation/providers/repository_providers.dart"
+  ]
+}

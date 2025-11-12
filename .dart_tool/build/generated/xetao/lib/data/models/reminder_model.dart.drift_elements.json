@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:xetao/domain/entities/reminder.dart","transitive":false},{"uri":"package:xetao/domain/entities/reminder_type.dart","transitive":false},{"uri":"package:xetao/data/database/app_database.dart","transitive":false}],"elements":[]}

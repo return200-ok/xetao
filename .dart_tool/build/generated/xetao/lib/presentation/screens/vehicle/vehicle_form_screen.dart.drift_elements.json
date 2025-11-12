@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:flutter/material.dart","transitive":false},{"uri":"package:flutter_riverpod/flutter_riverpod.dart","transitive":false},{"uri":"package:xetao/presentation/providers/vehicle_provider.dart","transitive":false},{"uri":"package:xetao/core/utils/result.dart","transitive":false}],"elements":[]}
