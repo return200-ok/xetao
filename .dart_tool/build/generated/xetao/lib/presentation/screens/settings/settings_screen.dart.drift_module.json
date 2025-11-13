@@ -1,6 +1,10 @@
 {
   "elements": {},
   "imports": [
-    "package:flutter/material.dart"
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:intl/intl.dart",
+    "package:xetao/presentation/providers/vehicle_provider.dart",
+    "package:xetao/presentation/screens/vehicle/vehicle_form_screen.dart"
   ]
 }

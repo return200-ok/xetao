@@ -1,1 +1,1 @@
-{"valid_import":true,"imports":[{"uri":"package:flutter/material.dart","transitive":false}],"elements":[]}
+{"valid_import":true,"imports":[{"uri":"package:flutter/material.dart","transitive":false},{"uri":"package:flutter_riverpod/flutter_riverpod.dart","transitive":false},{"uri":"package:intl/intl.dart","transitive":false},{"uri":"package:xetao/presentation/providers/vehicle_provider.dart","transitive":false},{"uri":"package:xetao/presentation/screens/vehicle/vehicle_form_screen.dart","transitive":false}],"elements":[]}

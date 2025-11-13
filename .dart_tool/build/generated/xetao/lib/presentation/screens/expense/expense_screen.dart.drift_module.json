@@ -1,6 +1,13 @@
 {
   "elements": {},
   "imports": [
-    "package:flutter/material.dart"
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:intl/intl.dart",
+    "package:xetao/presentation/providers/vehicle_provider.dart",
+    "package:xetao/presentation/providers/expense_list_provider.dart",
+    "package:xetao/domain/entities/expense_category.dart",
+    "package:xetao/presentation/screens/expense/add_expense_screen.dart",
+    "package:xetao/presentation/screens/expense/expense_statistics_screen.dart"
   ]
 }

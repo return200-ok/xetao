@@ -1,6 +1,13 @@
 {
   "elements": {},
   "imports": [
-    "package:flutter/material.dart"
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:intl/intl.dart",
+    "package:xetao/presentation/providers/vehicle_provider.dart",
+    "package:xetao/presentation/providers/maintenance_list_provider.dart",
+    "package:xetao/presentation/providers/maintenance_provider.dart",
+    "package:xetao/domain/entities/maintenance_type.dart",
+    "package:xetao/presentation/screens/maintenance/add_maintenance_screen.dart"
   ]
 }
